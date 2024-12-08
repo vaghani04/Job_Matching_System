@@ -49,4 +49,4 @@ run the `match_profiles.py` from `match_engine` to find similarities between all
   python .\match_engine\match_profiles.py
 ```
 
-Now you can see all summaries in the `.\outputs` directory
+Now you can see all parsed resumes `.json` file in the `.\outputs` directory and all the similarities in `.json` in the `.\outputs\jd_similarity\` directory.
