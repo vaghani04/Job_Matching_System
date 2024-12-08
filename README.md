@@ -13,7 +13,7 @@ The Job Matching System is designed to assist recruiters in effectively matching
 Clone the project
 
 ```bash
-  git clone https://github.com/vaghani04/Module_2.git
+  git clone https://github.com/vaghani04/Module_1.git
 ```
 
 Add job decriptions in `.\inputs\job_decriptions.txt` and put resume.pdf in `.\inputs` directory
