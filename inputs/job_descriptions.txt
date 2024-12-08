@@ -1,0 +1,65 @@
+Job-Role: Software Engineer - Python Developer
+Responsibilities:
+- Design, develop, and maintain Python-based applications.
+- Write clean, efficient, and reusable code.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Troubleshoot and debug applications to improve performance.
+
+Skills:
+- Proficiency in Python and Django.
+- Experience with RESTful APIs and web services.
+- Knowledge of SQL databases such as MySQL or PostgreSQL.
+- Familiarity with Docker and Kubernetes.
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field.
+- 3+ years of experience in software development.
+
+Technologies:
+- Python, Django, REST, Docker, Kubernetes.
+
+
+
+
+Job-Role: Machine Learning Engineer
+Responsibilities:
+- Develop and deploy machine learning models, including deep learning architectures like DNNs, CNNs, and LSTMs.
+- Perform natural language processing tasks to enhance text analysis and classification.
+- Collaborate with teams to implement efficient algorithms and scalable solutions.
+- Stay updated with advancements in machine learning and cloud technologies.
+
+Skills:
+- Proficiency in Python, Java, SQL, and machine learning frameworks like TensorFlow and Keras.
+- Strong problem-solving abilities and experience with cloud platforms like AWS.
+- Familiarity with version control tools like Git and GitHub.
+
+Qualifications:
+- Bachelor’s degree in Computer Science, Engineering, or a related field.
+- 1+ years of experience in a relevant role.
+
+
+Technologies:
+- Python, TensorFlow, Keras, MongoDB, MySQL, AWS.
+
+
+
+
+Job-Role: Frontend Developer
+Responsibilities:
+- Design and develop interactive user interfaces for web applications.
+- Optimize applications for maximum speed and scalability.
+- Collaborate with backend developers to integrate APIs and services.
+- Stay updated with the latest frontend technologies and trends.
+
+Skills:
+- Proficiency in HTML, CSS, JavaScript, and modern frameworks like React.js or Angular.
+- Strong understanding of responsive and cross-browser design.
+- Familiarity with version control tools like Git.
+
+Qualifications:
+- Bachelor's degree in Computer Science or a related field.
+- 1+ years of experience in frontend development.
+
+
+Technologies:
+- React.js, Angular, Bootstrap, JavaScript, Git.

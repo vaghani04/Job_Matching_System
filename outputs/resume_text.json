@@ -1,0 +1,21 @@
+{
+    "contact_info": {
+        "phone": [
+            "91 9016854182"
+        ]
+    },
+    "skills": [
+        "languages c c++ java python js sql mongodb",
+        "frameworks  libraries tensorflow keras pandas bootstrap expressjs reactjs",
+        "tools  technologies mysql git github aws streamlit"
+    ],
+    "education": [
+        "bachelor",
+        "computer science"
+    ],
+    "experience": "flyontech solutions\nmay 2024  july 2024 6 weeks",
+    "projects": "bitcoin price prediction using time series analysis  tensorflow python keras pandas  view project\nthis project utilizes tensorflow to develop diverse dl models ranging from dnns and cnns lstm networks different\nmultivariate approaches ensemble models and the nbeats architecturewith 30 stacks 4 layers in each block and 512\nneurons in each layer for the time series forecasting of bitcoin price\ni developed an ensemble model that demonstrated superior performance compared to other models the model achieved\nan mae of 26496 and an rmse of 40873\nabstract insights  nlp project  tensorflow python keras pandas  view project\nin this project a model was developed to classify sentences in medical abstracts using the pubmed 200k rct dataset\nefficiently categorizing sentences into roles such as objectives methods and results thus facilitating faster literature\nreview for researchers\ni developed a dl model combining pretrained token character and positional embeddings through feature engineering\nachieving 8320 accuracy and an f1 score of 08311\ncampground website  nodejs expressjs mongodb  view project\nthis project employs html bootstrap as a css js middlewares ejs cloudinary and mapbox\nit features a fullstack online platform enabling users to add and rate campgrounds with account authentication and\nessential components like environment variables management server setup and content security policy implementation\ntechnical and problem solving",
+    "technologies": [
+        "mysql git github aws streamlit"
+    ]
+}
